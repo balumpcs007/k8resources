@@ -9,5 +9,3 @@ spec:
   containers:
   - name: nginx
     image: nginx
-    ports:
-    - contaierPort: 80
