@@ -8,4 +8,5 @@ spec:
     image: nginx
   - name: almalinux
     image: almalinux:9
-    command: ["slepp","10000"]
+    command: ["slepp", "1000"]
+   
