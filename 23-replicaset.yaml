@@ -9,10 +9,10 @@ metadata:
 spec:
   replicas: 3
   selector:
-  matchlabels:
-    project: roboshop
-    component: frontend
-    environmet: dev
+    matchlabels:
+      project: roboshop
+      component: frontend
+      environmet: dev
   template:
     metadata:
       labels:
